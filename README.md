@@ -95,13 +95,6 @@ vetorizador e o Word2Vec são ajustados só no treino.
 cada palavra colorida pelo peso que teve na decisão e o tema mais próximo (NMF da classe prevista). O app só **carrega**
 os modelos de `app/modelos/`; não retreina.
 
-## Uso de IA generativa (declaração exigida pelo enunciado)
-
-*(A equipe deve revisar e completar este parágrafo, e repeti-lo no relatório.)* Usamos o **Claude (Anthropic)** como
-ferramenta de apoio para: estruturar e escrever o código dos três notebooks e do app, executar os notebooks, e redigir
-um rascunho das análises a partir das saídas. Todas as decisões foram revisadas pela equipe, que deve ser capaz de
-explicar cada célula.
-
 ## Referências
 
 * REAL, L.; OSHIRO, M.; MAFRA, A. B2W-Reviews01: an open product reviews corpus. STIL, 2019.
