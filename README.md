@@ -1,6 +1,6 @@
 # Projeto 1 — Do texto à decisão: sentimento e temas nas avaliações da Americanas
 
-Projeto Integrado: Redes Sociais e Marketing · CDIA, 4º período · PUC-SP · 2026.2 · Equipe **N**
+Projeto Integrado: Redes Sociais e Marketing · CDIA, 4º período · PUC-SP · 2026.2
 
 ## Equipe e divisão do trabalho
 
