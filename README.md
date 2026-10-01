@@ -4,13 +4,13 @@ Projeto Integrado: Redes Sociais e Marketing · CDIA, 4º período · PUC-SP · 
 
 ## Equipe e divisão do trabalho
 
-| # | Nome completo | Matrícula | Responsabilidade principal |
-|---|---|---|---|
-| 1 | Matheus Campos Amorim | 00361482 | *(preencher)* |
-| 2 | *(preencher)* | | |
-| 3 | *(preencher)* | | |
-| 4 | *(preencher)* | | |
-| 5 | *(preencher)* | | |
+| # | Nome completo |
+|---|---|
+| 1 | Matheus Campos Amorim |
+| 2 | Filipe Kobrem dos Santos |
+| 3 | Rafael Fassini Menoce  |
+| 4 | Gabriel Moraes |
+| 5 | Qingna Zhan |
 
 Todos os integrantes devem saber explicar qualquer célula na arguição individual.
 
