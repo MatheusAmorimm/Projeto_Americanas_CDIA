@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy==2.5.3
+scikit-learn==1.9.1
+scipy
+gensim>=4.3
+nltk
+matplotlib
+pyarrow
+joblib==1.6.0
+jupyter
+streamlit==1.64.0

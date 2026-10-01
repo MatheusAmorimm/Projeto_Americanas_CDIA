@@ -1,0 +1,15 @@
+{
+  "fonte": "https://raw.githubusercontent.com/americanas-tech/b2w-reviews01/main/B2W-Reviews01.csv",
+  "semente": 42,
+  "rotulo": "overall_rating binário: 1-2 negativo, 4-5 positivo, 3 fora",
+  "colunas_proibidas_como_entrada": [
+    "recommend_to_a_friend",
+    "review_title (entra só no teste de vazamento)"
+  ],
+  "n_modelo": 110874,
+  "proporcao_positivo": 0.705972545411909,
+  "baseline_maioria": 0.705972545411909,
+  "baseline_3_classes_com_texto": 0.614,
+  "pct_3_estrelas_recomendam": 0.884707324547962,
+  "definicao_caixa_alta": ">= 80% das letras em maiúscula"
+}
