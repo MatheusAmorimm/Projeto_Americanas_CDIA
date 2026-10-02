@@ -37,8 +37,7 @@ equipe-N-p1/
 ├── 01_auditoria.ipynb     auditoria, as 4 perguntas, decisão do rótulo, baseline
 ├── 02_sentimento.ipynb    pré-processamento medido, TF-IDF × Word2Vec, 3 classificadores, vazamento, 10 erros
 ├── 03_temas.ipynb         NMF (artefatos, polaridade, categoria), contraprova Ward/K-Means, recomendações, limites
-├── relatorio.pdf          (a produzir pela equipe)
-├── apresentacao.pdf       (a produzir pela equipe)
+├── relatorio.pdf          
 ├── figuras/               gráficos gerados pelos notebooks
 ├── artefatos/             base auditada, decisões e placar (gerados pelos notebooks)
 ├── .streamlit/config.toml tema do app
